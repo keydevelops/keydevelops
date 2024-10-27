@@ -1,4 +1,5 @@
 ### Привет, это ключ 👋
+[![wakatime](https://wakatime.com/badge/user/901d0624-3579-4ca9-bfd2-e70ee040a3df.svg)](https://wakatime.com/@901d0624-3579-4ca9-bfd2-e70ee040a3df)
 [![Discord](https://lanyard.cnrad.dev/api/680636323471818876)](https://discord.com/users/680636323471818876)
 <br>
 
