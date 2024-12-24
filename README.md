@@ -2,7 +2,7 @@
 ## Projects:
 ``✅ Done`` || ``My-Portfolio`` || [``Github``](https://github.com/keydevelops/my-portfolio/)
 
-``🚧 W.I.P.`` || ``Osu!CBMSD`` || [``Github``](https://github.com/Corrupted-Code/osu-cbmsd/)
+``❔ Archived`` || ``Osu!CBMSD`` || [``Github``](https://github.com/Corrupted-Code/osu-cbmsd/)
 ## 
 [![wakatime](https://wakatime.com/badge/user/901d0624-3579-4ca9-bfd2-e70ee040a3df.svg)](https://wakatime.com/@901d0624-3579-4ca9-bfd2-e70ee040a3df)
 <br>
