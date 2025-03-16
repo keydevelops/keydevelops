@@ -6,7 +6,7 @@
 ## 
 [![wakatime](https://wakatime.com/badge/user/901d0624-3579-4ca9-bfd2-e70ee040a3df.svg)](https://wakatime.com/@901d0624-3579-4ca9-bfd2-e70ee040a3df)
 <br>
-[![Discord](https://lanyard.cnrad.dev/api/680636323471818876)](https://discord.com/users/680636323471818876)
+[![Discord](https://lanyard.cnrad.dev/api/1129633540330487808)](https://discord.com/users/1129633540330487808)
 [![OSU](http://osu.bitknox.me/playing?uId=33989033)](http://osu.bitknox.me/redirect?uId=33989033)
 <br>
 
